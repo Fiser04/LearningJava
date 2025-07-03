@@ -5,3 +5,9 @@
          - printing
          - variables
          - user inputs (Scanner)  
+     - Den 2 -> 00:47:24 - 01:27:28
+         - game mad libs (procviceni scanneru)
+         - aritmeticke operace
+         - shopping cart (procviceni scanneru)
+         - if Statments
+         - RNG
