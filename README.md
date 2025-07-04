@@ -15,5 +15,5 @@
          - java.math
          - vyuziti matematiky (c^2 = ...)
          - printf
-         - ⭐ kalkulacka uroku
+         - ⭐ kalkulacka uroku (procviceni matematiky)
          - vnoreny if statments
