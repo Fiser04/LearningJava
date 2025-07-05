@@ -17,3 +17,9 @@
          - printf
          - ⭐ kalkulacka uroku (procviceni matematiky)
          - vnoreny if statments
+     - Den 4 -> 02:10:19 - 02:49:05
+         - methody stringu
+         - ⭐ roztrhavac emailu(substring)
+         - ⭐ prevodnik vahy
+         - ternarni operator
+         - ⭐ prevodnik teplot (procviceni ternarni operatoru)
