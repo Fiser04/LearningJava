@@ -23,3 +23,9 @@
          - ⭐ prevodnik vahy
          - ternarni operator
          - ⭐ prevodnik teplot (procviceni ternarni operatoru)
+     - Den 5 -> 02:49:05 - 03:33:46
+         - enchanced switches
+         - ⭐ kalkulacka (procviceni enchanced switches)
+         - logicke operace
+         - ⭐ overeni pouziti uzivatelskeho jmeno (procviceni logickych operaci)
+         - while loop
