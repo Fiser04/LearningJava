@@ -29,3 +29,11 @@
          - logicke operace
          - ⭐ overeni pouziti uzivatelskeho jmeno (procviceni logickych operaci)
          - while loop
+     - Den 6 -> 03:33:46 - 04:19:51
+         - ⭐ hadani cisel (procviceni while loop)
+         - for loop
+         - ⭐ odpocet (procviceni for loop)
+         - break, continue
+         - vnoreny loop
+         - ⭐ vyplneni plochy (procviceni vnoreny loop)
+         - methody a argumenty
