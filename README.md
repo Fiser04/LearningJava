@@ -37,3 +37,9 @@
          - vnoreny loop
          - ⭐ vyplneni plochy (procviceni vnoreny loop)
          - methody a argumenty
+     - Den 7 -> 04:19:51 - 05:03:25
+         - overloaded methods
+         - sdilene variables
+         - ⭐ program banky (procviceni method)
+         - ⭐ hazeni kostkou (procviceni method)
+
