@@ -42,4 +42,10 @@
          - sdilene variables
          - ⭐ program banky (procviceni method)
          - ⭐ hazeni kostkou (procviceni method)
-
+     - Den 8 -> 05:03:25 - 05:44:12
+         - pole
+         - input do pole
+         - hledani v poli
+         - varargs (int... num)
+         - 2d pole
+         - ⭐ telefon (procviceni 2d pole)
