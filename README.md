@@ -52,3 +52,5 @@
      - Den 9 -> 05:44:12 - 06:15:02
          - ⭐ kviz (procviceni pole a 2d pole)
          - ⭐ kamen nuzky papir
+     - Den 10 -> 06:15:02 - 06:41:46
+         - ⭐ hraci automat
