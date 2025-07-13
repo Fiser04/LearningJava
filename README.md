@@ -54,3 +54,8 @@
          - ⭐ kamen nuzky papir
      - Den 10 -> 06:15:02 - 06:41:46
          - ⭐ hraci automat
+     - Den 11 -> 06:41:46 - 07:14:07 
+         - objekty
+         - konstruktory
+         - overloaded konstruktory
+         - pole objektu
