@@ -59,3 +59,9 @@
          - konstruktory
          - overloaded konstruktory
          - pole objektu
+     - Den 12 -> 07:14:07 - 07:51:58
+         - static
+         - dedicnost
+         - super
+         - prepisovani method (@Override)
+         - toString methoda
