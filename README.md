@@ -72,3 +72,14 @@
          - polymorphism
          - polymorphism pomoci interface
          - runtime/dynamic polymorphism
+     - Den 14 -> 08:19:35 - 09:05:28
+         - getter & setter
+         - agregace
+         - kompozice
+         - wrapper classes
+             - autoboxing
+             - unboxing
+             - parsovani
+             - kontrolovani
+         - ArrayList
+         - ⭐ nakupni seznam (ArrayList kombinace s Scanner)
