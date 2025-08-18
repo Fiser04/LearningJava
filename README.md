@@ -83,3 +83,15 @@
              - kontrolovani
          - ArrayList
          - ⭐ nakupni seznam (ArrayList kombinace s Scanner)
+     - Den 15 -> 09:05:28 - 09:43:10
+         - exception
+         - zapisovani do souboru
+             - FileWriter (pouzito)
+             - BufferedWriter
+             - PrintWriter
+             - FileOutputStream
+         - cteni souboru
+             - BufferedReader + FileReader
+             - FileInputStream
+             - RamdomAccessFile
+         - ⭐ aplikace pro hrani hudby (jednoducha)
