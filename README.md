@@ -95,3 +95,5 @@
              - FileInputStream
              - RamdomAccessFile
          - ⭐ aplikace pro hrani hudby (jednoducha)
+     - Den 16 -> 09:43:10 - 10:11:43
+         - ⭐ obesenec
