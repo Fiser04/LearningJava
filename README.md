@@ -97,3 +97,11 @@
          - ⭐ aplikace pro hrani hudby (jednoducha)
      - Den 16 -> 09:43:10 - 10:11:43
          - ⭐ obesenec
+     - Den 17 -> 10:11:43 - 11:02:38
+         - time a date
+         - anonymus class
+         - timer (casovac tasku), TimerTask
+         - ⭐ C4 v csgu (procviceni timer)
+         - genericita
+         - hashmap
+
