@@ -110,5 +110,3 @@
          - multithreading
          - ⭐ budik
  - [Data Structures and Algorithms Full Course 📈](https://www.youtube.com/watch?v=CBYHwZcbD-s)
-     - Den 19 - 00:00:00 - 
-         - asd
