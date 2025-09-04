@@ -104,4 +104,11 @@
          - ⭐ C4 v csgu (procviceni timer)
          - genericita
          - hashmap
-
+     - Den 18 -> 11:02:38 - 12:00:00 
+         - enums
+         - threading
+         - multithreading
+         - ⭐ budik
+ - [Data Structures and Algorithms Full Course 📈](https://www.youtube.com/watch?v=CBYHwZcbD-s)
+     - Den 19 - 00:00:00 - 
+         - asd
