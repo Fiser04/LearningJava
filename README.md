@@ -110,3 +110,8 @@
          - multithreading
          - ⭐ budik
  - [Data Structures and Algorithms Full Course 📈](https://www.youtube.com/watch?v=CBYHwZcbD-s)
+     - Den 19 -> 00:00:00 - 00:40:15
+         - stack
+         - fronta (queue)
+         - prioritni fronta (priority queues)
+         - linked list
