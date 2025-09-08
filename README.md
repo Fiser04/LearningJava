@@ -65,7 +65,6 @@
          - super
          - prepisovani method (@Override)
          - toString methoda
-     - Mesic dovolene
      - Den 13 -> 07:51:58 - 08:19:35
          - abstract
          - interface
@@ -115,3 +114,5 @@
          - fronta (queue)
          - prioritni fronta (priority queues)
          - linked list
+     - Den 20 -> 00:40:15 -
+         - dynamic array (ArrayList)
