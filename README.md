@@ -114,5 +114,5 @@
          - fronta (queue)
          - prioritni fronta (priority queues)
          - linked list
-     - Den 20 -> 00:40:15 -
-         - dynamic array (ArrayList)
+     - Den 20 -> 00:40:15 - 
+         - dynamic array (ArrayList<Object> po domacku)
