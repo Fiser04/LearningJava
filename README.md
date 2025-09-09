@@ -116,4 +116,7 @@
      - Den 20 -> 00:40:15 - 01:13:08
          - dynamic array (ArrayList(Object) po domacku)
          - linked list vs ArrayList
-
+     - Den 21 -> 01:13:08 - 01:32:44
+         - BIG O notace
+         - linearni hledani
+         - binary search
