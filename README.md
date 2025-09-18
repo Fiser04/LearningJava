@@ -120,3 +120,13 @@
          - BIG O notace
          - linearni hledani
          - binary search
+     - Den 22
+         - zadani z emailu
+             - Napište program, který sečte všechna čísla od 1 do N (N je zadáno uživatelem) a vypíše výsledek. Použijte cyklus pro sčítání.
+             - Vytvořte třídu Osoba, která bude mít atributy jméno a věk. Implementujte metodu, která zjistí, zda je osoba plnoletá, a vypíše odpovídající zprávu.
+             - Napište program, který sečte všechny liché čísla od 1 do 100 a výsledky vypíše na konzoli.
+             - Implementujte třídu Automobil, která bude mít atributy značka, rokVýroby, kilometry. Vytvořte metody pro přidání najetých kilometrů a pro výpočet stáří auta.
+             - Napište program, který zadaný řetězec otočí a vypíše jej na obrazovku.
+             -  Implementujte metodu, která zjistí, zda zadané číslo je prvočíslem. Použijte algoritmus pro kontrolu prvočíselnosti.
+             -  Vytvořte třídu Student, která bude obsahovat atributy jméno, studijníObor a ročník. Vytvořte metody pro zobrazení těchto údajů.
+
