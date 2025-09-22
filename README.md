@@ -127,6 +127,13 @@
              - Napište program, který sečte všechny liché čísla od 1 do 100 a výsledky vypíše na konzoli.
              - Implementujte třídu Automobil, která bude mít atributy značka, rokVýroby, kilometry. Vytvořte metody pro přidání najetých kilometrů a pro výpočet stáří auta.
              - Napište program, který zadaný řetězec otočí a vypíše jej na obrazovku.
-             -  Implementujte metodu, která zjistí, zda zadané číslo je prvočíslem. Použijte algoritmus pro kontrolu prvočíselnosti.
-             -  Vytvořte třídu Student, která bude obsahovat atributy jméno, studijníObor a ročník. Vytvořte metody pro zobrazení těchto údajů.
-
+             - Implementujte metodu, která zjistí, zda zadané číslo je prvočíslem. Použijte algoritmus pro kontrolu prvočíselnosti.
+             - Vytvořte třídu Student, která bude obsahovat atributy jméno, studijníObor a ročník. Vytvořte metody pro zobrazení těchto údajů.
+     - Den 23
+         - zadani z emailu
+             - Napište program, který zjistí, zda je zadaný text palindrom. (Palindrom je slovo, které se čte stejně zleva i zprava.)
+             - Vytvořte třídu Kniha, která bude obsahovat atributy název, autor, rokVydání. Implementujte metodu pro zobrazení těchto informací.
+             - Napište program, který přečte soubor obsahující seznam čísel a vypíše součet všech čísel v souboru.
+             - Vytvořte třídu Zaměstnanec, která bude dědit z třídy Osoba. Třída Zaměstnanec bude mít navíc atribut pozice a plat. Implementujte metody pro výpočet ročního platu.
+             - Napište program, který zjistí, zda zadané pole obsahuje duplicity. Využijte cyklus a podmínky pro kontrolu duplicity.
+             - Vytvořte třídu BankovníÚčet, která bude mít atributy majitel a zůstatek. Implementujte metody pro vklad, výběr peněz a zobrazení zůstatku.
