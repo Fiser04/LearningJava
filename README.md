@@ -137,3 +137,8 @@
              - Vytvořte třídu Zaměstnanec, která bude dědit z třídy Osoba. Třída Zaměstnanec bude mít navíc atribut pozice a plat. Implementujte metody pro výpočet ročního platu.
              - Napište program, který zjistí, zda zadané pole obsahuje duplicity. Využijte cyklus a podmínky pro kontrolu duplicity.
              - Vytvořte třídu BankovníÚčet, která bude mít atributy majitel a zůstatek. Implementujte metody pro vklad, výběr peněz a zobrazení zůstatku.
+     - Den 24
+         - kousek King's Quest
+     - Den 25
+         - PS Diagram
+
